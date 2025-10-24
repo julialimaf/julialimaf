@@ -1,10 +1,11 @@
-# 👩🏻‍💻 Júlia Ferreira 
+# 👩🏻‍💻 Júlia Ferreira  
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora FullStack`**  
 
-Me chamo Ana Júlia Ferreira, tenho 17 anos e sou natural do Ceará. Estou cursando o ensino médio em uma escola profissionalizante, no curso técnico em Desenvolvimento de Sistemas. Amo tecnologia e os diversos caminhos que ela está abrindo para os jovens!
+💡 Apaixonada por tecnologia, inovação e pelo poder de transformar ideias em código.  
+🎯 Atualmente estudando **Desenvolvimento de Sistemas** e explorando o universo da **programação web**.  
+📍 Ceará, Brasil  
 
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -31,3 +32,11 @@ Me chamo Ana Júlia Ferreira, tenho 17 anos e sou natural do Ceará. Estou cursa
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialimaf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+### 📅 Atividade Recentes no GitHub
+
+![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=julialimaf&theme=tokyo-night&area=true)
+
+
+![Júlia Ferreira's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=julialimaf&theme=tokyo-night)
+
