@@ -4,25 +4,6 @@
 
 Me chamo Ana Júlia Ferreira, tenho 17 anos e sou natural do Ceará. Estou cursando o ensino médio em uma escola profissionalizante, com o curso técnico em Desenvolvimento de Sistemas. Eu amo a tecnologia e os diversos caminhos que ela esta abrindo para os jovens!
 
-<p align="left">
-  <a href="https://github.com/julialimaf">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/julialimaf?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/julialimaf?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/julialimaf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -115,7 +96,7 @@ Me chamo Ana Júlia Ferreira, tenho 17 anos e sou natural do Ceará. Estou cursa
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialimaf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
