@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ana Júlia Ferreira, tenho 17 anos e sou natural do Ceará. Estou cursando o ensino médio em uma escola profissionalizante, com o curso técnico em Desenvolvimento de Sistemas. Eu amo a tecnologia e os diversos caminhos que ela está abrindo para os jovens!
+Me chamo Ana Júlia Ferreira, tenho 17 anos e sou natural do Ceará. Estou cursando o ensino médio em uma escola profissionalizante, no curso técnico em Desenvolvimento de Sistemas. Amo tecnologia e os diversos caminhos que ela está abrindo para os jovens!
 
 ---
 
