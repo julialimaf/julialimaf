@@ -33,10 +33,5 @@
   />
 </p>
 
-### 📅 Atividade Recentes no GitHub
-
-![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=julialimaf&theme=tokyo-night&area=true)
-
-
-![Júlia Ferreira's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=julialimaf&theme=tokyo-night)
+![Snake animation](https://github.com/julialimaf/julialimaf/blob/output/github-contribution-grid-snake.svg)
 
