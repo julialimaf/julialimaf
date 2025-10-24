@@ -33,7 +33,4 @@
   />
 </p>
 
-### 🐍 Snake Animation
-
-![Snake animation](https://github.com/julialimaf/julialimaf/blob/output/github-contribution-grid-snake.svg)
 
