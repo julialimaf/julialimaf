@@ -3,8 +3,8 @@
 **`Desenvolvedora FullStack`**  
 
 💡 Apaixonada por tecnologia, inovação e pelo poder de transformar ideias em código.  
-🎯 Atualmente estudando **Desenvolvimento de Sistemas** e explorando o universo da **programação web**.  
-📍 Ceará, Brasil  
+🎯 Atualmente estudando **Desenvolvimento de Sistemas** e explorando o universo da **programação (back-end)**.  
+📍 Ceará, Brasil 
 
 
 ### 🤖 Linguagens e Tecnologias
