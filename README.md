@@ -6,7 +6,6 @@
 🎯 Atualmente estudando **Desenvolvimento de Sistemas** e explorando o universo da **programação (back-end)**.  
 📍 Ceará, Brasil 
 
-
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
@@ -15,14 +14,12 @@
   <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Django" title="Django" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Django_logo_white_on_green.svg" />
-
-
-
+  <img alt="Django" title="Django" width="40" src="https://icons8.com/icons/set/django--green?iconSize=512&id=39139" />
   <img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="Bootstrap" title="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </p>
+
 
 
 
