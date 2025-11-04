@@ -15,7 +15,8 @@
   <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Django" title="Django" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Django_logo.svg" />
+<img alt="Django" title="Django" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Django_logo_white_on_green.svg" />
+
 
 
   <img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
