@@ -17,7 +17,7 @@
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
  
-  <img alt="Django" title="Django" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg](https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253692/django-icon-icon-sm.png)" />
+  <img alt="Django" title="Django" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg](https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253692/django-icon-icon-sm.png)" />
   <img alt="CSS" title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Bootstrap" title="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
